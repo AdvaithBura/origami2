@@ -1,0 +1,11 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+
+
+
+.Header{display:flex; justify-content:space-between; background-color:red; color:blue}
+.gameStyle{border:solid; border-color:red; border-radius:30px; color:red; font-family:sans-serif; }
+.theGameRow{background-color:black; display:flex; flex-wrap:wrap; justify-content:space-evenly}
+.Imageses{font-size:30px; ; background-color:black; color:red}
